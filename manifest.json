@@ -1,0 +1,19 @@
+{
+  "name": "mini-games",
+  "version": "1.0",
+  "type": "resource",
+  "items": [
+    {
+      "type": "tabhub-app",
+      "name": "Looptap",
+      "background_style": "#0a0a0a",
+      "url": "https://looptap.vasanthv.com/"
+    },
+    {
+      "type": "tabhub-app",
+      "name": "Test your shape rotation skills",
+      "background_style": "#05d19e",
+      "url": "https://0xf00ff00f.github.io/rotator/"
+    }
+  ]
+}
