@@ -14,12 +14,6 @@
       "name": "Test your shape rotation skills",
       "background_style": "#05d19e",
       "url": "https://0xf00ff00f.github.io/rotator/"
-    },
-    {
-      "type": "tabhub-app",
-      "name": "Marble solitaire",
-      "background_style": "#060906",
-      "url": "https://iamkate.com/games/marble-solitaire/"
     }
   ]
 }
